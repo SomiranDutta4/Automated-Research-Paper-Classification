@@ -40,6 +40,5 @@ Each notebook contains detailed steps for model training, fine-tuning, and infer
 
 We welcome contributions from the community to make this project more robust and versatile. For queries or contributions, please contact:
 
--Krishna Mahalka
--Rahul Jat
+-Somiran Dutta
 - Email: [somirandutta46@gmail.com](somirandutta46@gmail.com)
