@@ -22,7 +22,6 @@ The ensemble model achieved an F1 Score of 0.70, indicating a high degree of pre
 ## Project Structure
 
 The project includes the following Jupyter notebooks:
-https://github.com/SomiranDutta4/Automated-Research-Paper-Classification/blob/main/deberta.ipynb
 
 - **DeBERTa Script**: [Link](https://github.com/SomiranDutta4/Automated-Research-Paper-Classification/blob/main/deberta.ipynb)
 - **DeBERTa Training Script** (Overfit Model): [Link](https://github.com/SomiranDutta4/Automated-Research-Paper-Classification/blob/main/deberta6.ipynb)
